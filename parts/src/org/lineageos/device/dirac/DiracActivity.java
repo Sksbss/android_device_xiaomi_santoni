@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.dirac;
+package org.lineageos.device.dirac;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;

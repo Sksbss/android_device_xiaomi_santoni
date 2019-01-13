@@ -335,6 +335,7 @@ PRODUCT_COPY_FILES += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
+    init.parts.rc \
     init.qcom.rc \
     init.qcom.sh \
     init.qcom.usb.rc \

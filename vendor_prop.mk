@@ -217,3 +217,7 @@ persist.sys.usb.config.extra=none
 # Wifi
 PRODUCT_PROPERTY_OVERRIDES += \
 wifi.interface=wlan0
+
+# Havoc Maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.havoc.maintainer=Sonal Singh/Sksbss
